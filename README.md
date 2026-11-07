@@ -31,7 +31,7 @@
 ### Установка и запуск в режиме разработки
 
 ```bash
-git clone <url-вашего-репозитория>
+git clone https://github.com/serhiisource/MetaShield-Studio.git
 cd metashield-studio
 npm install
 npm run dev
