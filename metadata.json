@@ -1,0 +1,6 @@
+{
+  "name": "MetaShield Studio",
+  "description": "Профессиональный инструмент для глубокой очистки, редактирования, клонирования метаданных и уникализации видео под алгоритмы TikTok.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
